@@ -18,4 +18,4 @@ if the user enters an invalid value the program will return a message asking for
 
 ## Refrencing
 -w3Schools.2025.Kotlin If...Else(Version 1.0)[Source code]. Avalable at:<https://www.w3schools.com/kotlin/kotlin_conditions.php>[Accessed 31 March 2025].
--w3schools.2025.Storage clear() method(Version 1.0)[Source code]. Available at:<https://wwww.w3schools.com/jsref/met_storage_clear.asp#gsc.tab=0>[Accessed 31 March 2025]
+-w3schools.2025.Storage clear() method(Version 1.0)[Source code]. Available at:<https://www.w3schools.com/python/ref_list_clear.asp>[Accessed 31 March 2025]
